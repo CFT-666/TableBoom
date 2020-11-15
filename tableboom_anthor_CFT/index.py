@@ -1,5 +1,11 @@
 ﻿# coding:utf-8
 #view sourcer and anthor:CFT猫鱼树
+#You need to install the PYGAME library first！
+#look this:
+#1,press"windows"and"R"to open runner progrem;
+#2,input"cmd"
+#3,input"pip install pygame"and wait for few minute
+#4,open with"Aptana Studio3"
 #thanks for you looking!
 from pygame import display,movie
 import pygame
